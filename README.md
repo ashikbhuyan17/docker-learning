@@ -1,6 +1,5 @@
 # 🚀 Learning Docker — A Dev's Practical Journey
 
-Welcome to my Docker learning repository!  
 Currently, I'm learning Docker from scratch, and this repository is where I document everything I'm exploring — in simple, practical terms.
 
 As I explore and master Docker, I'm writing beginner-friendly and practical blog posts on concepts, tools, and use-cases — all published on [my Hashnode blog](https://ashik17.hashnode.dev/).
@@ -43,9 +42,9 @@ Here are my current blog posts, ordered to guide you from the basics to more adv
 
 If you're also learning Docker or have questions about any topic, feel free to connect:
 
-- 📧 Email: _[Your email here if you want to share]_
+- 📧 Email: _[ashik.swe.bd@gmail.com]_
 - 📝 Blog: [https://ashik17.hashnode.dev](https://ashik17.hashnode.dev)
-- 🐙 GitHub: [Your GitHub Profile Link]
+- 🐙 LinkedIn: [https://www.linkedin.com/in/ashik17/]
 
 ---
 
